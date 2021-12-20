@@ -49,7 +49,7 @@ Models.DesktopTraffic.AverageVisitDurationResponse averageVisitDurationResponse 
 
 ```
 
-For more information about using Adverity.Api.Connector take a look at our [documentation](https://documenter.getpostman.com/view/5388671/RzfcNs8W).
+For more information about using SimilarWeb API take a look at our [documentation](https://documenter.getpostman.com/view/5388671/RzfcNs8W).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
